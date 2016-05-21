@@ -1,0 +1,19 @@
+[
+	{
+		"scenario_id": 1,
+		"maps": [
+			{
+				"line": 0,
+				"col": 0,
+				"map_id": 2,
+				"rotation": 0
+			},
+			{
+				"line": 0,
+				"col": 1,
+				"map_id": 2,
+				"rotation": 90
+			}
+		]
+	}
+]
